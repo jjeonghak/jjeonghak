@@ -2,7 +2,6 @@
 
 **E-mail** : rlawjdgks318@naver.com &nbsp;&nbsp; rlawjdgks3185@khu.ac.kr
 
-**Languages** : C &nbsp;&nbsp;C++ &nbsp;&nbsp;Python
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs03043)](https://solved.ac/yhs03043/)
 
