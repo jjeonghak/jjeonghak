@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhan-K&theme=graywhite&show_icons=true) 
 <!--
-**Jhan-K/Jhan-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jjeonghak/jjeonghak* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
