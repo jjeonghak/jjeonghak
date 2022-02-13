@@ -1,5 +1,7 @@
 ### Info
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeonghak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs03043)](https://solved.ac/yhs03043/)
 
 [![jeonghak's 42 stats](https://badge42.herokuapp.com/api/stats/jeonghak?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
