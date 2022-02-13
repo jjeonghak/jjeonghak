@@ -1,8 +1,5 @@
 ### Info
 
-**E-mail** : rlawjdgks318@naver.com &nbsp;&nbsp; rlawjdgks3185@khu.ac.kr
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs03043)](https://solved.ac/yhs03043/)
 
 [![jeonghak's 42 stats](https://badge42.herokuapp.com/api/stats/jeonghak?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
