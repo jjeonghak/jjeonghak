@@ -10,7 +10,7 @@ _And I have an interest in everything related to **Reactive Microservices**._
 * _Language_ - **_C/C++, Java, RxJava_**
 * _Backend_ - **_Spring MVC, Spring WebFlux, Redis, Elasticsearch_**
 * _DataBase_ - **_MySQL, MongoDB_**
-* _DevOps_ - **_Docker, AWS, Git_**
+* _DevOps_ - **_Docker, AWS, Github_**
 
 
 </br>
