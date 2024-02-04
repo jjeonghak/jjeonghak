@@ -8,8 +8,8 @@ _And I have an interest in everything related to **Reactive Microservices**._
 ## _Tech Stack_
 
 * _Language_ - **_C/C++, Java, RxJava_**
-* _Backend_ - **_Spring MVC, Spring WebFlux, Redis, Elasticsearch_**
-* _DataBase_ - **_MySQL, MongoDB_**
+* _Backend_ - **_Spring MVC, Spring WebFlux, Elasticsearch_**
+* _DataBase_ - **_MySQL, MongoDB, Redis_**
 * _DevOps_ - **_Docker, AWS, Github_**
 
 
