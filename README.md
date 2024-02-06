@@ -1,5 +1,5 @@
 #### _Hello, I`m Jeonghan Kim._  
-_I hope to be a **Backend Developer**._  
+_I hope to be a_ [**_Backend Developer_**](https://github.com/jjeonghak/note-repository).  
 _And I have an interest in everything related to_ [**_Reactive Microservices_**](https://github.com/jjeonghak/vinsguru-microservices).
 
 
