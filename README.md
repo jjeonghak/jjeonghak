@@ -18,7 +18,7 @@ _And I have an interest in everything related to_ [**_Reactive Microservices_**]
 ## _Certification_
 * _2021.11.26_ - **_정보처리기사_**
 * _2022.08.06_ - **_삼성 SDS Professional_**
-* _2022.10.01_ - **_SQLD_**
+* _2022.10.01_ - **_SQL 개발자(SQLD)_**
 
 
 </br>
