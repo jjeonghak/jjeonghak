@@ -1,7 +1,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yhs03043)](https://solved.ac/yhs03043)
 
 
-#### _Hello, I`m Jeonghan Kim._  
+#### _Hello, I`m [Jeonghan Kim](https://kiwi-spatula-6c8.notion.site/Jeonghan-Kim-fd8f0112c47b433d882e5cdd21f3d61e)._  
 
 _I hope to be a_ [**_Backend Developer_**](https://github.com/jjeonghak/note-repository).  
 _And I have an interest in everything related to_ [**_Reactive Microservices_**](https://github.com/jjeonghak/vinsguru-microservices).  
