@@ -27,7 +27,7 @@ _And I have an interest in everything related to_ [**_Reactive Microservices_**]
 </br>
 
 ## _Experience_
-| PERIOD | TITLE |  |
+| **PERIOD** | **TITLE** | **DESCRIPTION** |
 | ------- | ------- | ------- |
 | 2016.03.01 ~ 2023.02.01 | **경희대학교** | 건축공학과 전공 |
 | 2021.11.01 ~ 2022.06.01 | [42 Seoul](https://www.42seoul.kr/seoul42/main/view) | 42 서울 5기 활동 |
