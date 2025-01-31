@@ -11,7 +11,7 @@ _And I have an interest in everything related to_ [**_Reactive Microservices_**]
 
 ## _Tech Stack_ 
 * _`Language`_ - **_Java, Javascript_**
-* _`Backend`_ - **_Spring boot, Nestjs_**
+* _`Backend`_ - **_Spring boot, JPA, Nest.js_**
 * _`Database`_ - **_MySQL_**
 * _`DevOps`_ - **_AWS, Github_**
 
