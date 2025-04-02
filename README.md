@@ -33,6 +33,7 @@ _And I have an interest in everything related to_ [**_Reactive Microservices_**]
 | 2022.07.18 ~ 2022.07.29 | [삼성 SDS 알고리즘 특강](https://www.samsungsds.com/kr/insights/1233793_4627.html) | 삼성 SW 검정 합격 |
 | 2023.03.01 ~ 2023.12.01 | [(주)플리더스](https://www.plithus.kr) | 백엔드 개발 - [IOS](https://apps.apple.com/kr/app/id6443593709) [Android](https://play.google.com/store/apps/details?id=kr.plithus.app)  |
 | 2024.06.24 ~ 2024.12.06 | [네이버 커넥트 부스트캠프](https://boostcamp.connect.or.kr/) | 웹모바일 풀스택 9기 활동 |
+| 2025.04.01 ~ 2025.12.01 | [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) | SW마에스트로 16기 활동 |
 
 
 <!--
