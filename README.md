@@ -10,10 +10,10 @@ _And I have an interest in everything related to_ [**_Reactive Microservices_**]
 </br>
 
 ## _Tech Stack_ 
-* _`Language`_ - **_Java, Javascript_**
-* _`Backend`_ - **_Spring boot, JPA, Nest.js_**
-* _`Database`_ - **_MySQL_**
-* _`DevOps`_ - **_AWS, Github_**
+* _`Language`_ - **_Java, RxJava, Javascript, Python_**
+* _`Backend`_ - **_Spring boot, JPA, Nest.js, FastAPI, LangGraph_**
+* _`Database`_ - **_MySQL, MongoDB_**
+* _`DevOps`_ - **_AWS, Docker, Github_**
 
 
 </br>
