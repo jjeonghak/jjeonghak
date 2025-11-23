@@ -13,7 +13,7 @@ _And I have an interest in everything related to_ [**_Reactive Microservices_**]
 * _`Language`_ - **_Java, RxJava, Javascript, Python_**
 * _`Backend`_ - **_Spring boot, JPA, Nest.js, FastAPI, LangGraph_**
 * _`Database`_ - **_MySQL, MongoDB_**
-* _`DevOps`_ - **_AWS, Docker, Github_**
+* _`DevOps`_ - **_AWS, Docker, Kubernetes, Github_**
 
 
 </br>
